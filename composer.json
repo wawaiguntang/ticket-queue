@@ -1,0 +1,24 @@
+{
+    "name": "wawaiguntang/ticket-queue",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wawaiguntang\\TicketQueue\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Wawaiguntang\\TicketQueue\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diki Rahmad Sandi",
+            "email": "wawaiguntang@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
